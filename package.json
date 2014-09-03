@@ -1,0 +1,24 @@
+{
+  "name": "gereji-browser",
+  "version": "0.0.1",
+  "description": "A headless browser for the gereji web application framework.",
+  "main": "browser.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dnjuguna/gereji-browser.git"
+  },
+  "keywords": [
+    "gereji",
+    "browser",
+    "cookies"
+  ],
+  "author": "David Njuguna <dnjuguna@gmail.com> (https://github.com/dnjuguna)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dnjuguna/gereji-browser/issues"
+  },
+  "homepage": "https://github.com/dnjuguna/gereji-browser"
+}
