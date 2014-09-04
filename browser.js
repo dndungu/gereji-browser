@@ -3,7 +3,7 @@ var querystring = require('querystring');
 var fs = require('fs');
 var zlib = require("zlib");
 var stream = require('stream');
-var cookies = require('./cookies.js');
+var cookies = require('gereji-cookies');
 module.exports = function(){
 
 	var client;

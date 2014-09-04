@@ -1,6 +1,6 @@
 {
   "name": "gereji-browser",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A headless browser for the gereji web application framework.",
   "main": "browser.js",
   "scripts": {
